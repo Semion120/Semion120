@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Semion120
-- 👀 I’m interested in marketing and TS, Python
-- 🌱 I’m currently learning TypeScript
+- 👀 I’m interested in JS, TS, Vue, React.
 - 📱  Telegram: @Semion_b
