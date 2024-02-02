@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Semion120
-- 👀 I’m interested in JS, TS, Vue, React.
+- Let's explore this world together
 - 📱  Telegram: @Semion_b
